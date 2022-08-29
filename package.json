@@ -1,0 +1,40 @@
+{
+  "name": "zcs-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phara0h/zcs-location.git"
+  },
+  "keywords": [
+    "zip",
+    "city",
+    "state",
+    "lookup",
+    "light",
+    "fast",
+    "location",
+    "lookahead",
+    "autocomplete",
+    "zcs",
+    "streets",
+    "geolocation",
+    "geocoding",
+    "mgrs",
+    "usa"
+  ],
+  "author": "Jt Whissel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phara0h/zcs-location/issues"
+  },
+  "homepage": "https://github.com/Phara0h/zcs-location#readme",
+  "dependencies": {
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1"
+  }
+}
